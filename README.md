@@ -1,11 +1,11 @@
-About r-sinew
-=============
+About r-sinew-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sinew-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/metrumresearchgroup/sinew
 
 Package license: GPL-2.0-only OR GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sinew-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create 'roxygen2' skeleton populated with information scraped from the within the function script. Also creates field entries for imports in the 'DESCRIPTION' and import in the 'NAMESPACE' files. Can be run from the R console or through the 'RStudio' 'addin' menu.
 
